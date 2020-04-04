@@ -1,0 +1,3 @@
+D:/clionworks/project1-kvstore/cmake-build-debug/CMakeFiles/project1-kvstore.dir
+D:/clionworks/project1-kvstore/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clionworks/project1-kvstore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
